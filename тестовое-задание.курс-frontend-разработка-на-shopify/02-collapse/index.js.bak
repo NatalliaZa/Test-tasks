@@ -1,0 +1,8 @@
+/* Я комментарий, который ждал тебя здесь. Удали меня и напиши хороший код! */
+
+
+let button1 = document.querySelector('.collapsible__button');
+let ppp = document.querySelector('.collapsible__content');
+let ppp2 = querySelectorAll('p');
+remove(ppp2);
+
